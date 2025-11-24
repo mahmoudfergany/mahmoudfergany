@@ -1,4 +1,4 @@
-# Hey there, I'm [Mahmoud Fergany](https://yousefdergham.vercel.app/) 👋
+ Hey there, I'm [Mahmoud Fergany](https://https://github.com/mahmoudfergany/mahmoudfergany/tree/main.vercel.app/) 👋
 
 ** CS Student . NBA fan 
 
@@ -16,7 +16,7 @@
 
 ---
 
-## 🚀 About Me
+🚀 About Me
 
 <img align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" width="200" alt="Coding GIF"/>
 
