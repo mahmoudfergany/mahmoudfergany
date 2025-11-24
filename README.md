@@ -25,10 +25,11 @@
   <img src="https://media.giphy.com/media/v1.gif" alt="Coding GIF" width="100" style="float: right; margin-left: 20px;">
 </p>
 
-* Problem solving on leetcode 
-* Data science 
-* Data analysis 
-* Machine learning 
+* **Problem solving on leetcode**
+* **Data science**
+* **Data analysis**
+* **Machine learning**
+ 
 
 
 ---
