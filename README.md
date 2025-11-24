@@ -20,10 +20,14 @@
 ---
 
 ### 🚀 **What I'm Passionate About (My Expertise):**
-<img align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" width="175" alt="Coding GIF"/>
+<img align="right"
+     src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif"
+     width="500"
+     alt="Coding GIF"
+     style="margin-top: -40px;" />
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.gif" alt="Coding GIF" width="100" style="float: right; margin-left: 20px;">
+  <img src="https://media.giphy.com/media/v1.gif" alt="Coding GIF" width="100" style="float: right; margin-left: 100px;">
 </p>
 
 * **Problem solving on leetcode**
