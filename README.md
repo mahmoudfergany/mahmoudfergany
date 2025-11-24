@@ -1,14 +1,17 @@
- Hey there, I'm [Mahmoud Fergany](https://yousefdergham.vercel.app/)👋
+<h1 align="center">
+  <img src="https://media.giphy.com/media/v1.gif" alt="Hi there!" width="50" style="vertical-align: middle;"> Hi there! I'm Mahmoud Fergany  👋
+</h1>
 
-** CS Student . NBA fan 
-
-💼 **Current:** student at Faculty of computers and artificial intelligence Cairo university
+<p align="center">
+  Welcome to my digital playground! I'm a passionate second-year Computer and aritificial intelligence Engineering student dedicated to knowing more about Quantam computing and machine learning.
+ I thrive on continuous learning, building, and collaborative innovation.
+</p>
 
 <p align="center">
   <a href="http://linkedin.com/in/mahmoud-fergany-9b54a1321" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
- <a href="mailto:mahmoudferganydaher@gmail.com">
+ <a href="mahmoudferganydaher@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 
@@ -16,26 +19,28 @@
 
 ---
 
-🚀 About Me
+### 🚀 **What I'm Passionate About (My Expertise):**
 
-<img align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" width="200" alt="Coding GIF"/>
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.gif" alt="Coding GIF" width="100" style="float: right; margin-left: 20px;">
+</p>
 
-I am a student at FCAI skilled in C++ , python.
-and continuously strive to improve my skills and contribute to impactful teams.
+* Problem solving on leetcode 
+* Data science 
+* Data analysis 
+* Machine learning 
 
-
-<br clear="right"/>
 
 ---
 
 ### 🛠️ **My Dynamic Tech Stack (Tools & Technologies):**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,git,github" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,git,github" />
 </p>
 <br>
 
-* **Programming Languages:** Python,C++
+* **Programming Languages:** Python , C++
 * **Core Concepts:** Object-Oriented Programming (OOP)
 * **Version Control:** Git, GitHub
 
@@ -43,16 +48,23 @@ and continuously strive to improve my skills and contribute to impactful teams.
 
 ### 🏆 **Validated Expertise (Certifications & Education):**
 
-* **B.Sc. in Computer and artificial intelligence - 2nd Year** (cairo University)
+* **B.Sc. in Computers and artificial intelligence - 2nd Year** (Cairo University)
 * **Certifications:**
-    * C++ 
+    * C++
     * Python (Basic)
     * Mastering Object-Oriented Programming (OOP) using C++
     * AVR Workshop Certificate
 
 ---
 
+### 🔥 **Let's Connect & Build Something Amazing!**
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mahmoudfergany&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views">
+  <img src="https://github-readme-stats.vercel.app/api?username=mahmoudfergany&show_icons=true&locale=en&theme=dark" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoudfergany&theme=dark" alt="GitHub Streak">
+</p>
 
-
- 
+<p align="center">
+  Always excited to learn, build, and contribute to innovative projects. Feel free to explore my repositories!
+</p>
