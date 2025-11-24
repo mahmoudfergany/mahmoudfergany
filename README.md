@@ -33,3 +33,6 @@ and continuously strive to improve my skills and contribute to impactful teams.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/mahmoud-fergany-9b54a1321)
 
 </div>
+ <a href="mailto:omnia_787a@eng.kfs.edu.eg">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
