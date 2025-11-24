@@ -5,7 +5,9 @@
 💼 **Current:** student at Faculty of computers and artificial intelligence Cairo university
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge" alt="Profile Views"/>
+   <a href="mailto:omnia_787a@eng.kfs.edu.eg">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
 </p>
 
 ## 🚀 About Me
