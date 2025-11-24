@@ -20,6 +20,7 @@
 ---
 
 ### 🚀 **What I'm Passionate About (My Expertise):**
+<img align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" width="175" alt="Coding GIF"/>
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.gif" alt="Coding GIF" width="100" style="float: right; margin-left: 20px;">
