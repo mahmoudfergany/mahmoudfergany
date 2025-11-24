@@ -21,9 +21,7 @@
 
 ### 🚀 **What I'm Passionate About (My Expertise):**
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.gif" alt="Coding GIF" width="100" style="float: right; margin-left: 100px;">
-</p>
+
 
 * **Problem solving on leetcode**
 * **Data science**
